@@ -1,0 +1,41 @@
+mat-card{
+    margin-bottom: 10px;
+}
+ .news-list{
+    .mat-card-title{
+        font-size: 16px;
+    }
+.example-header-image{
+    font-size: 24px;
+    bordeR:1px solid #ccc;
+    text-align: center;
+    background: #f3f3f3;
+    span{
+        margin-top:5px;
+        display: inline-block;
+    }
+}
+   .image-loaded{
+     width:100%;
+     height:auto;
+     
+     
+  }
+  .news-title{
+      font-size: 18px;
+      font-weight: bold;
+      margin:10px 0;
+  }
+  .date-label{
+    display: inherit;
+    float: right;
+  }
+  mat-card-content p{
+      margin-top:10px;
+  }
+  .hyper-link{
+      cursor: pointer;
+      text-decoration: underline;
+      color:#12abdb
+  }
+}
